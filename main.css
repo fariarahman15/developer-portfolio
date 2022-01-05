@@ -60,3 +60,10 @@ section{
     padding-left: 0;
     padding-top: 10%;
 }
+
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
