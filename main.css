@@ -28,7 +28,7 @@ h1{
 }
 
 .half-width-img1{
-    width: 100%;
+    width: 70%;
     padding-top: 5%;
     padding-left: 15%;
 }
@@ -50,9 +50,13 @@ h1{
 
 
 .half-width-img2{
-    width: 100%;
-    padding-top: 0;
-    padding-left: 0;
+    height: 80%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 12%;
+    padding-left: 25%;
+    
 }
 
 .half-width-text2{
